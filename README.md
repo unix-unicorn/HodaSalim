@@ -2,73 +2,124 @@
 
 #### 👷 Check out what I'm currently working on
 
-{{range recentContributions 10}}
 
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-  {{- end}}
+
+- [HodaSalim/portfolio](https://github.com/HodaSalim/portfolio) -  (2 days ago)
+
+- [HodaSalim/StreamTV](https://github.com/HodaSalim/StreamTV) - a multistreaming platform using WebRTC (6 days ago)
+
+- [HodaSalim/BookVerse](https://github.com/HodaSalim/BookVerse) -  (1 week ago)
+
+- [HodaSalim/alx-system_engineering-devops](https://github.com/HodaSalim/alx-system_engineering-devops) -  (1 week ago)
+
+- [HodaSalim/AirBnB_clone_v2](https://github.com/HodaSalim/AirBnB_clone_v2) -  (2 weeks ago)
+
+- [HodaSalim/AirBnB_clone_v4](https://github.com/HodaSalim/AirBnB_clone_v4) -  (3 weeks ago)
+
+- [HodaSalim/alx-higher_level_programming](https://github.com/HodaSalim/alx-higher_level_programming) -  (3 weeks ago)
+
+- [HodaSalim/dotfiles](https://github.com/HodaSalim/dotfiles) -  (1 month ago)
+
+- [HodaSalim/binary_trees_archive](https://github.com/HodaSalim/binary_trees_archive) -  (5 months ago)
+
+- [HodaSalim/Fix_My_Code_Challenge_archive](https://github.com/HodaSalim/Fix_My_Code_Challenge_archive) -  (5 months ago)
 
 #### 🌱 My latest projects
 
-{{range recentRepos 10}}
 
-- [{{.Name}}]({{.URL}}) - {{.Description}}
-  {{- end}}
 
-#### 🍴 My recent forks
+- [HodaSalim/portfolio](https://github.com/HodaSalim/portfolio) - 
 
-{{range recentForks 10}}
+- [HodaSalim/StreamTV](https://github.com/HodaSalim/StreamTV) - a multistreaming platform using WebRTC
 
-- [{{.Name}}]({{.URL}}) - {{.Description}}
-  {{- end}}
+- [HodaSalim/BookVerse](https://github.com/HodaSalim/BookVerse) - 
+
+- [HodaSalim/AirBnB_clone_v2](https://github.com/HodaSalim/AirBnB_clone_v2) - 
+
+- [HodaSalim/test](https://github.com/HodaSalim/test) - 
+
+- [HodaSalim/AirBnB_clone_v4](https://github.com/HodaSalim/AirBnB_clone_v4) - 
+
+- [HodaSalim/alx-system_engineering-devops](https://github.com/HodaSalim/alx-system_engineering-devops) - 
+
+- [HodaSalim/alx-higher_level_programming](https://github.com/HodaSalim/alx-higher_level_programming) - 
+
+- [HodaSalim/dotfiles](https://github.com/HodaSalim/dotfiles) - 
+
+- [HodaSalim/binary_trees_archive](https://github.com/HodaSalim/binary_trees_archive) - 
+
 
 #### 🔭 Latest releases I've contributed to
 
-{{range recentReleases 10}}
 
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
-  {{- end}}
 
 #### 🔨 My recent Pull Requests
 
-{{range recentPullRequests 10}}
 
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-  {{- end}}
 
-#### 📜 My recent blog posts
+- [testing new get and count methods](https://github.com/HodaSalim/AirBnB_clone_v3_/pull/1) on [HodaSalim/AirBnB_clone_v3_](https://github.com/HodaSalim/AirBnB_clone_v3_) (3 weeks ago)
 
-{{range rss "https://.../posts/index.xml" 5}}
+- [Tasks from 1 to 7](https://github.com/HodaSalim/AirBnB_clone_archive/pull/3) on [HodaSalim/AirBnB_clone_archive](https://github.com/HodaSalim/AirBnB_clone_archive) (5 months ago)
 
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-  {{- end}}
+- [Complete](https://github.com/HodaSalim/Trello_GMC/pull/1) on [HodaSalim/Trello_GMC](https://github.com/HodaSalim/Trello_GMC) (7 months ago)
+
+- [simple project no styling](https://github.com/HodaSalim/Redux-todo/pull/1) on [HodaSalim/Redux-todo](https://github.com/HodaSalim/Redux-todo) (7 months ago)
+
+- [Filteration](https://github.com/ahmedbaligh/countries/pull/8) on [ahmedbaligh/countries](https://github.com/ahmedbaligh/countries) (7 months ago)
+
+- [Fetched API data from Countries API](https://github.com/ahmedbaligh/countries/pull/6) on [ahmedbaligh/countries](https://github.com/ahmedbaligh/countries) (8 months ago)
+
+- [Added Header component](https://github.com/ahmedbaligh/countries/pull/5) on [ahmedbaligh/countries](https://github.com/ahmedbaligh/countries) (8 months ago)
+
+- [Project Implementation](https://github.com/HodaSalim/cloud-project/pull/1) on [HodaSalim/cloud-project](https://github.com/HodaSalim/cloud-project) (8 months ago)
+
+- [Feat/ search input field](https://github.com/ahmedbaligh/countries/pull/3) on [ahmedbaligh/countries](https://github.com/ahmedbaligh/countries) (8 months ago)
+
+- [Rest api](https://github.com/HodaSalim/REST_API/pull/1) on [HodaSalim/REST_API](https://github.com/HodaSalim/REST_API) (8 months ago)
+
 
 #### 📓 Gists I wrote
 
-{{range gists 5}}
 
-- [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
-  {{- end}}
 
 #### ⭐ Recent Stars
 
-{{range recentStars 10}}
 
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
-  {{- end}}
 
-#### ❤️ These awesome people sponsor me (thank you!)
+- [FrontendMasters/ai-nodejs](https://github.com/FrontendMasters/ai-nodejs) -  (3 months ago)
 
-{{range sponsors 5}}
+- [lucavallin/verto](https://github.com/lucavallin/verto) - Your Gateway to Open-Source Collaboration. (3 months ago)
 
-- [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
-  {{- end}}
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (3 months ago)
+
+- [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers. (3 months ago)
+
+- [miroslavpejic85/mirotalkbro](https://github.com/miroslavpejic85/mirotalkbro) - 📡 MiroTalk WebRTC Live Broadcast allows to broadcast live video, audio and screen stream to all connected users (viewers). (4 months ago)
+
+- [theopn/dotfiles](https://github.com/theopn/dotfiles) - Are they really dotfiles if they don&#39;t have dots in front of them (4 months ago)
+
+- [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore. (6 months ago)
+
+- [zedshaw/learn-c-the-hard-way-lectures](https://github.com/zedshaw/learn-c-the-hard-way-lectures) - All of the code from Learn C The Hard Way, each project, plus the presentation slides used in the videos. (7 months ago)
+
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (7 months ago)
+
+- [gothinkster/realworld](https://github.com/gothinkster/realworld) - &#34;The mother of all demo apps&#34; — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more (7 months ago)
+
 
 #### 👯 Check out some of my recent followers
 
-{{range followers 5}}
 
-- [{{.Login}}]({{.URL}})
-  {{- end}}
+
+- [Lotfy-Mahmoud-Yaseen](https://github.com/Lotfy-Mahmoud-Yaseen)
+
+- [Amna2017](https://github.com/Amna2017)
+
+- [cumsoft](https://github.com/cumsoft)
+
+- [myzakaybee](https://github.com/myzakaybee)
+
+- [Mustafaeldmrdash](https://github.com/Mustafaeldmrdash)
 
 #### 💬 Feedback
 
@@ -76,10 +127,9 @@ Say Hello, I don't bite!
 
 #### 📫 How to reach me
 
-- Twitter: https://twitter.com/...
-- Fediverse: https://mastodon.social/@...
-- Blog: https://...
+- Twitter: https://twitter.com/hodadottech
+- Blog: https://hodasalim.com
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
 
-<!-- comments will be preserved -->
+
