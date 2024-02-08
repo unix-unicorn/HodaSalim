@@ -4,13 +4,13 @@
 
 
 
-- [HodaSalim/portfolio](https://github.com/HodaSalim/portfolio) -  (2 days ago)
+- [HodaSalim/portfolio](https://github.com/HodaSalim/portfolio) -  (3 days ago)
 
 - [HodaSalim/StreamTV](https://github.com/HodaSalim/StreamTV) - a multistreaming platform using WebRTC (1 week ago)
 
 - [HodaSalim/BookVerse](https://github.com/HodaSalim/BookVerse) -  (1 week ago)
 
-- [HodaSalim/alx-system_engineering-devops](https://github.com/HodaSalim/alx-system_engineering-devops) -  (1 week ago)
+- [HodaSalim/alx-system_engineering-devops](https://github.com/HodaSalim/alx-system_engineering-devops) -  (2 weeks ago)
 
 - [HodaSalim/AirBnB_clone_v2](https://github.com/HodaSalim/AirBnB_clone_v2) -  (3 weeks ago)
 
@@ -63,7 +63,7 @@
 
 - [Complete](https://github.com/HodaSalim/Trello_GMC/pull/1) on [HodaSalim/Trello_GMC](https://github.com/HodaSalim/Trello_GMC) (7 months ago)
 
-- [simple project no styling](https://github.com/HodaSalim/Redux-todo/pull/1) on [HodaSalim/Redux-todo](https://github.com/HodaSalim/Redux-todo) (7 months ago)
+- [simple project no styling](https://github.com/HodaSalim/Redux-todo/pull/1) on [HodaSalim/Redux-todo](https://github.com/HodaSalim/Redux-todo) (8 months ago)
 
 - [Filteration](https://github.com/ahmedbaligh/countries/pull/8) on [ahmedbaligh/countries](https://github.com/ahmedbaligh/countries) (8 months ago)
 
