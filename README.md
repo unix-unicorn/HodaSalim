@@ -12,7 +12,7 @@
 
 - [HodaSalim/alx-system_engineering-devops](https://github.com/HodaSalim/alx-system_engineering-devops) -  (2 weeks ago)
 
-- [HodaSalim/AirBnB_clone_v2](https://github.com/HodaSalim/AirBnB_clone_v2) -  (4 weeks ago)
+- [HodaSalim/AirBnB_clone_v2](https://github.com/HodaSalim/AirBnB_clone_v2) -  (1 month ago)
 
 - [HodaSalim/AirBnB_clone_v4](https://github.com/HodaSalim/AirBnB_clone_v4) -  (1 month ago)
 
