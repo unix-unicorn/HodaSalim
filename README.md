@@ -10,7 +10,7 @@
 
 - [HodaSalim/BookVerse](https://github.com/HodaSalim/BookVerse) -  (2 weeks ago)
 
-- [HodaSalim/alx-system_engineering-devops](https://github.com/HodaSalim/alx-system_engineering-devops) -  (2 weeks ago)
+- [HodaSalim/alx-system_engineering-devops](https://github.com/HodaSalim/alx-system_engineering-devops) -  (3 weeks ago)
 
 - [HodaSalim/AirBnB_clone_v2](https://github.com/HodaSalim/AirBnB_clone_v2) -  (1 month ago)
 
@@ -98,7 +98,7 @@
 
 - [theopn/dotfiles](https://github.com/theopn/dotfiles) - Are they really dotfiles if they don&#39;t have dots in front of them (4 months ago)
 
-- [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore. (6 months ago)
+- [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore. (7 months ago)
 
 - [zedshaw/learn-c-the-hard-way-lectures](https://github.com/zedshaw/learn-c-the-hard-way-lectures) - All of the code from Learn C The Hard Way, each project, plus the presentation slides used in the videos. (8 months ago)
 
