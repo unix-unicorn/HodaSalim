@@ -88,7 +88,7 @@
 
 - [FrontendMasters/ai-nodejs](https://github.com/FrontendMasters/ai-nodejs) -  (3 months ago)
 
-- [lucavallin/verto](https://github.com/lucavallin/verto) - Your Gateway to Open-Source Collaboration. (3 months ago)
+- [lucavallin/verto](https://github.com/lucavallin/verto) - Your Gateway to Open-Source Collaboration. (4 months ago)
 
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (4 months ago)
 
