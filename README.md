@@ -10,7 +10,7 @@
 
 - [HodaSalim/BookVerse](https://github.com/HodaSalim/BookVerse) -  (4 weeks ago)
 
-- [HodaSalim/alx-system_engineering-devops](https://github.com/HodaSalim/alx-system_engineering-devops) -  (4 weeks ago)
+- [HodaSalim/alx-system_engineering-devops](https://github.com/HodaSalim/alx-system_engineering-devops) -  (1 month ago)
 
 - [HodaSalim/AirBnB_clone_v2](https://github.com/HodaSalim/AirBnB_clone_v2) -  (1 month ago)
 
@@ -86,7 +86,7 @@
 
 
 
-- [Sheta239/PAT.Web](https://github.com/Sheta239/PAT.Web) -  (today)
+- [Sheta239/PAT.Web](https://github.com/Sheta239/PAT.Web) -  (1 day ago)
 
 - [FrontendMasters/ai-nodejs](https://github.com/FrontendMasters/ai-nodejs) -  (4 months ago)
 
