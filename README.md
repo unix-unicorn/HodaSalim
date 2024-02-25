@@ -28,6 +28,8 @@
 
 
 
+- [HodaSalim/nvim](https://github.com/HodaSalim/nvim) - My Neovim Configurations 
+
 - [HodaSalim/portfolio](https://github.com/HodaSalim/portfolio) - 
 
 - [HodaSalim/StreamTV](https://github.com/HodaSalim/StreamTV) - a multistreaming platform using WebRTC
@@ -45,8 +47,6 @@
 - [HodaSalim/alx-higher_level_programming](https://github.com/HodaSalim/alx-higher_level_programming) - 
 
 - [HodaSalim/dotfiles](https://github.com/HodaSalim/dotfiles) - 
-
-- [HodaSalim/binary_trees_archive](https://github.com/HodaSalim/binary_trees_archive) - 
 
 
 #### 🔭 Latest releases I've contributed to
