@@ -86,9 +86,9 @@
 
 
 
-- [Eqraatech/Software-Engineering-In-Arabic](https://github.com/Eqraatech/Software-Engineering-In-Arabic) - محتوى تقني متميز في مختلف مجالات هندسة البرمجيات عن طريق تبسيط المفاهيم البرمجية المعقدة بشكل سلس وباستخدام صور توضيحية مذهلة (2 days ago)
+- [Eqraatech/Software-Engineering-In-Arabic](https://github.com/Eqraatech/Software-Engineering-In-Arabic) - محتوى تقني متميز في مختلف مجالات هندسة البرمجيات عن طريق تبسيط المفاهيم البرمجية المعقدة بشكل سلس وباستخدام صور توضيحية مذهلة (3 days ago)
 
-- [Sheta239/PAT.Web](https://github.com/Sheta239/PAT.Web) -  (6 days ago)
+- [Sheta239/PAT.Web](https://github.com/Sheta239/PAT.Web) -  (1 week ago)
 
 - [FrontendMasters/ai-nodejs](https://github.com/FrontendMasters/ai-nodejs) -  (4 months ago)
 
