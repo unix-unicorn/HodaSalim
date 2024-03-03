@@ -86,9 +86,9 @@
 
 
 
-- [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions &amp; Answers....Coding exercise questions are coming soon!! (1 day ago)
+- [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions &amp; Answers....Coding exercise questions are coming soon!! (2 days ago)
 
-- [Eqraatech/Software-Engineering-In-Arabic](https://github.com/Eqraatech/Software-Engineering-In-Arabic) - محتوى تقني متميز في مختلف مجالات هندسة البرمجيات عن طريق تبسيط المفاهيم البرمجية المعقدة بشكل سلس وباستخدام صور توضيحية مذهلة (4 days ago)
+- [Eqraatech/Software-Engineering-In-Arabic](https://github.com/Eqraatech/Software-Engineering-In-Arabic) - محتوى تقني متميز في مختلف مجالات هندسة البرمجيات عن طريق تبسيط المفاهيم البرمجية المعقدة بشكل سلس وباستخدام صور توضيحية مذهلة (5 days ago)
 
 - [Sheta239/PAT.Web](https://github.com/Sheta239/PAT.Web) -  (1 week ago)
 
