@@ -57,7 +57,7 @@
 
 
 
-- [loadSchemaDialects function](https://github.com/hyperjump-io/json-schema/pull/53) on [hyperjump-io/json-schema](https://github.com/hyperjump-io/json-schema) (4 days ago)
+- [loadSchemaDialects function](https://github.com/hyperjump-io/json-schema/pull/53) on [hyperjump-io/json-schema](https://github.com/hyperjump-io/json-schema) (5 days ago)
 
 - [testing new get and count methods](https://github.com/HodaSalim/AirBnB_clone_v3_/pull/1) on [HodaSalim/AirBnB_clone_v3_](https://github.com/HodaSalim/AirBnB_clone_v3_) (2 months ago)
 
@@ -88,7 +88,7 @@
 
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions &amp; Answers....Coding exercise questions are coming soon!! (1 week ago)
 
-- [Eqraatech/Software-Engineering-In-Arabic](https://github.com/Eqraatech/Software-Engineering-In-Arabic) - محتوى تقني متميز في مختلف مجالات هندسة البرمجيات عن طريق تبسيط المفاهيم البرمجية المعقدة بشكل سلس وباستخدام صور توضيحية مذهلة (1 week ago)
+- [Eqraatech/Software-Engineering-In-Arabic](https://github.com/Eqraatech/Software-Engineering-In-Arabic) - محتوى تقني متميز في مختلف مجالات هندسة البرمجيات عن طريق تبسيط المفاهيم البرمجية المعقدة بشكل سلس وباستخدام صور توضيحية مذهلة (2 weeks ago)
 
 - [Sheta239/PAT.Web](https://github.com/Sheta239/PAT.Web) -  (2 weeks ago)
 
