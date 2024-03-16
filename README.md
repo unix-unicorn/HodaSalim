@@ -57,6 +57,8 @@
 
 
 
+- [settings: Fix dropdown menu for pronouns.](https://github.com/zulip/zulip/pull/29320) on [zulip/zulip](https://github.com/zulip/zulip) (today)
+
 - [Server - Code completion for $schema ](https://github.com/hyperjump-io/json-schema-language-tools/pull/27) on [hyperjump-io/json-schema-language-tools](https://github.com/hyperjump-io/json-schema-language-tools) (2 days ago)
 
 - [loadSchemaDialects function](https://github.com/hyperjump-io/json-schema/pull/53) on [hyperjump-io/json-schema](https://github.com/hyperjump-io/json-schema) (1 week ago)
@@ -74,8 +76,6 @@
 - [Fetched API data from Countries API](https://github.com/ahmedbaligh/countries/pull/6) on [ahmedbaligh/countries](https://github.com/ahmedbaligh/countries) (9 months ago)
 
 - [Added Header component](https://github.com/ahmedbaligh/countries/pull/5) on [ahmedbaligh/countries](https://github.com/ahmedbaligh/countries) (9 months ago)
-
-- [Project Implementation](https://github.com/HodaSalim/cloud-project/pull/1) on [HodaSalim/cloud-project](https://github.com/HodaSalim/cloud-project) (9 months ago)
 
 
 #### 📓 Gists I wrote
