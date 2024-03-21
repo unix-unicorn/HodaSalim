@@ -57,11 +57,11 @@
 
 
 
-- [settings: Fix dropdown menu for pronouns.](https://github.com/zulip/zulip/pull/29320) on [zulip/zulip](https://github.com/zulip/zulip) (4 days ago)
+- [settings: Fix dropdown menu for pronouns.](https://github.com/zulip/zulip/pull/29320) on [zulip/zulip](https://github.com/zulip/zulip) (5 days ago)
 
-- [Server - Code completion for $schema ](https://github.com/hyperjump-io/json-schema-language-tools/pull/27) on [hyperjump-io/json-schema-language-tools](https://github.com/hyperjump-io/json-schema-language-tools) (6 days ago)
+- [Server - Code completion for $schema ](https://github.com/hyperjump-io/json-schema-language-tools/pull/27) on [hyperjump-io/json-schema-language-tools](https://github.com/hyperjump-io/json-schema-language-tools) (1 week ago)
 
-- [loadSchemaDialects function](https://github.com/hyperjump-io/json-schema/pull/53) on [hyperjump-io/json-schema](https://github.com/hyperjump-io/json-schema) (1 week ago)
+- [loadSchemaDialects function](https://github.com/hyperjump-io/json-schema/pull/53) on [hyperjump-io/json-schema](https://github.com/hyperjump-io/json-schema) (2 weeks ago)
 
 - [testing new get and count methods](https://github.com/HodaSalim/AirBnB_clone_v3_/pull/1) on [HodaSalim/AirBnB_clone_v3_](https://github.com/HodaSalim/AirBnB_clone_v3_) (2 months ago)
 
@@ -94,7 +94,7 @@
 
 - [FrontendMasters/ai-nodejs](https://github.com/FrontendMasters/ai-nodejs) -  (4 months ago)
 
-- [lucavallin/verto](https://github.com/lucavallin/verto) - Your Gateway to Open-Source Collaboration. (4 months ago)
+- [lucavallin/verto](https://github.com/lucavallin/verto) - Your Gateway to Open-Source Collaboration. (5 months ago)
 
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (5 months ago)
 
