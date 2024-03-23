@@ -57,7 +57,7 @@
 
 
 
-- [settings: Fix dropdown menu for pronouns.](https://github.com/zulip/zulip/pull/29320) on [zulip/zulip](https://github.com/zulip/zulip) (6 days ago)
+- [settings: Fix dropdown menu for pronouns.](https://github.com/zulip/zulip/pull/29320) on [zulip/zulip](https://github.com/zulip/zulip) (1 week ago)
 
 - [Server - Code completion for $schema ](https://github.com/hyperjump-io/json-schema-language-tools/pull/27) on [hyperjump-io/json-schema-language-tools](https://github.com/hyperjump-io/json-schema-language-tools) (1 week ago)
 
@@ -92,7 +92,7 @@
 
 - [Sheta239/PAT.Web](https://github.com/Sheta239/PAT.Web) -  (4 weeks ago)
 
-- [FrontendMasters/ai-nodejs](https://github.com/FrontendMasters/ai-nodejs) -  (4 months ago)
+- [FrontendMasters/ai-nodejs](https://github.com/FrontendMasters/ai-nodejs) -  (5 months ago)
 
 - [lucavallin/verto](https://github.com/lucavallin/verto) - Your Gateway to Open-Source Collaboration. (5 months ago)
 
