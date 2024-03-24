@@ -22,7 +22,7 @@
 
 - [HodaSalim/binary_trees_archive](https://github.com/HodaSalim/binary_trees_archive) -  (6 months ago)
 
-- [HodaSalim/Fix_My_Code_Challenge_archive](https://github.com/HodaSalim/Fix_My_Code_Challenge_archive) -  (6 months ago)
+- [HodaSalim/Fix_My_Code_Challenge_archive](https://github.com/HodaSalim/Fix_My_Code_Challenge_archive) -  (7 months ago)
 
 #### 🌱 My latest projects
 
@@ -90,7 +90,7 @@
 
 - [Eqraatech/Software-Engineering-In-Arabic](https://github.com/Eqraatech/Software-Engineering-In-Arabic) - محتوى تقني متميز في مختلف مجالات هندسة البرمجيات عن طريق تبسيط المفاهيم البرمجية المعقدة بشكل سلس وباستخدام صور توضيحية مذهلة (3 weeks ago)
 
-- [Sheta239/PAT.Web](https://github.com/Sheta239/PAT.Web) -  (4 weeks ago)
+- [Sheta239/PAT.Web](https://github.com/Sheta239/PAT.Web) -  (1 month ago)
 
 - [FrontendMasters/ai-nodejs](https://github.com/FrontendMasters/ai-nodejs) -  (5 months ago)
 
