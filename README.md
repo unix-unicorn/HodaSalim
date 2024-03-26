@@ -8,7 +8,7 @@
 
 - [HodaSalim/StreamTV](https://github.com/HodaSalim/StreamTV) - a multistreaming platform using WebRTC (1 month ago)
 
-- [HodaSalim/BookVerse](https://github.com/HodaSalim/BookVerse) -  (1 month ago)
+- [HodaSalim/BookVerse](https://github.com/HodaSalim/BookVerse) -  (2 months ago)
 
 - [HodaSalim/alx-system_engineering-devops](https://github.com/HodaSalim/alx-system_engineering-devops) -  (2 months ago)
 
@@ -86,11 +86,11 @@
 
 
 
-- [academind/django-practical-guide-course-code](https://github.com/academind/django-practical-guide-course-code) - This repository holds the source code snapshots for our &#34;Django - The Practical Guide&#34; course (https://acad.link/django) (today)
+- [academind/django-practical-guide-course-code](https://github.com/academind/django-practical-guide-course-code) - This repository holds the source code snapshots for our &#34;Django - The Practical Guide&#34; course (https://acad.link/django) (1 day ago)
 
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions &amp; Answers....Coding exercise questions are coming soon!! (3 weeks ago)
 
-- [Eqraatech/Software-Engineering-In-Arabic](https://github.com/Eqraatech/Software-Engineering-In-Arabic) - محتوى تقني متميز في مختلف مجالات هندسة البرمجيات عن طريق تبسيط المفاهيم البرمجية المعقدة بشكل سلس وباستخدام صور توضيحية مذهلة (3 weeks ago)
+- [Eqraatech/Software-Engineering-In-Arabic](https://github.com/Eqraatech/Software-Engineering-In-Arabic) - محتوى تقني متميز في مختلف مجالات هندسة البرمجيات عن طريق تبسيط المفاهيم البرمجية المعقدة بشكل سلس وباستخدام صور توضيحية مذهلة (4 weeks ago)
 
 - [Sheta239/PAT.Web](https://github.com/Sheta239/PAT.Web) -  (1 month ago)
 
