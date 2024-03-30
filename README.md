@@ -20,7 +20,7 @@
 
 - [HodaSalim/dotfiles](https://github.com/HodaSalim/dotfiles) -  (3 months ago)
 
-- [HodaSalim/binary_trees_archive](https://github.com/HodaSalim/binary_trees_archive) -  (6 months ago)
+- [HodaSalim/binary_trees_archive](https://github.com/HodaSalim/binary_trees_archive) -  (7 months ago)
 
 - [HodaSalim/Fix_My_Code_Challenge_archive](https://github.com/HodaSalim/Fix_My_Code_Challenge_archive) -  (7 months ago)
 
@@ -57,7 +57,7 @@
 
 
 
-- [settings: Fix dropdown menu for pronouns.](https://github.com/zulip/zulip/pull/29320) on [zulip/zulip](https://github.com/zulip/zulip) (1 week ago)
+- [settings: Fix dropdown menu for pronouns.](https://github.com/zulip/zulip/pull/29320) on [zulip/zulip](https://github.com/zulip/zulip) (2 weeks ago)
 
 - [Server - Code completion for $schema ](https://github.com/hyperjump-io/json-schema-language-tools/pull/27) on [hyperjump-io/json-schema-language-tools](https://github.com/hyperjump-io/json-schema-language-tools) (2 weeks ago)
 
@@ -86,9 +86,9 @@
 
 
 
-- [hyperjump-io/json-schema-language-tools](https://github.com/hyperjump-io/json-schema-language-tools) - JSON Schema Langauge Server (1 day ago)
+- [hyperjump-io/json-schema-language-tools](https://github.com/hyperjump-io/json-schema-language-tools) - JSON Schema Langauge Server (2 days ago)
 
-- [academind/django-practical-guide-course-code](https://github.com/academind/django-practical-guide-course-code) - This repository holds the source code snapshots for our &#34;Django - The Practical Guide&#34; course (https://acad.link/django) (4 days ago)
+- [academind/django-practical-guide-course-code](https://github.com/academind/django-practical-guide-course-code) - This repository holds the source code snapshots for our &#34;Django - The Practical Guide&#34; course (https://acad.link/django) (5 days ago)
 
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions &amp; Answers....Coding exercise questions are coming soon!! (4 weeks ago)
 
