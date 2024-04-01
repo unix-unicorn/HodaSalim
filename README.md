@@ -73,9 +73,9 @@
 
 - [Filteration](https://github.com/ahmedbaligh/countries/pull/8) on [ahmedbaligh/countries](https://github.com/ahmedbaligh/countries) (9 months ago)
 
-- [Fetched API data from Countries API](https://github.com/ahmedbaligh/countries/pull/6) on [ahmedbaligh/countries](https://github.com/ahmedbaligh/countries) (9 months ago)
+- [Fetched API data from Countries API](https://github.com/ahmedbaligh/countries/pull/6) on [ahmedbaligh/countries](https://github.com/ahmedbaligh/countries) (10 months ago)
 
-- [Added Header component](https://github.com/ahmedbaligh/countries/pull/5) on [ahmedbaligh/countries](https://github.com/ahmedbaligh/countries) (9 months ago)
+- [Added Header component](https://github.com/ahmedbaligh/countries/pull/5) on [ahmedbaligh/countries](https://github.com/ahmedbaligh/countries) (10 months ago)
 
 
 #### 📓 Gists I wrote
@@ -86,9 +86,9 @@
 
 
 
-- [hyperjump-io/json-schema-language-tools](https://github.com/hyperjump-io/json-schema-language-tools) - JSON Schema Langauge Server (3 days ago)
+- [hyperjump-io/json-schema-language-tools](https://github.com/hyperjump-io/json-schema-language-tools) - JSON Schema Langauge Server (4 days ago)
 
-- [academind/django-practical-guide-course-code](https://github.com/academind/django-practical-guide-course-code) - This repository holds the source code snapshots for our &#34;Django - The Practical Guide&#34; course (https://acad.link/django) (6 days ago)
+- [academind/django-practical-guide-course-code](https://github.com/academind/django-practical-guide-course-code) - This repository holds the source code snapshots for our &#34;Django - The Practical Guide&#34; course (https://acad.link/django) (1 week ago)
 
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions &amp; Answers....Coding exercise questions are coming soon!! (1 month ago)
 
