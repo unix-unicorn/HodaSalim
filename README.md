@@ -86,7 +86,7 @@
 
 
 
-- [hyperjump-io/json-schema-language-tools](https://github.com/hyperjump-io/json-schema-language-tools) - JSON Schema Langauge Server (4 days ago)
+- [hyperjump-io/json-schema-language-tools](https://github.com/hyperjump-io/json-schema-language-tools) - JSON Schema Langauge Server (5 days ago)
 
 - [academind/django-practical-guide-course-code](https://github.com/academind/django-practical-guide-course-code) - This repository holds the source code snapshots for our &#34;Django - The Practical Guide&#34; course (https://acad.link/django) (1 week ago)
 
