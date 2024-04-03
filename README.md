@@ -86,7 +86,7 @@
 
 
 
-- [hyperjump-io/json-schema-language-tools](https://github.com/hyperjump-io/json-schema-language-tools) - JSON Schema Langauge Server (5 days ago)
+- [hyperjump-io/json-schema-language-tools](https://github.com/hyperjump-io/json-schema-language-tools) - JSON Schema Langauge Server (6 days ago)
 
 - [academind/django-practical-guide-course-code](https://github.com/academind/django-practical-guide-course-code) - This repository holds the source code snapshots for our &#34;Django - The Practical Guide&#34; course (https://acad.link/django) (1 week ago)
 
@@ -104,7 +104,7 @@
 
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers. (5 months ago)
 
-- [miroslavpejic85/mirotalkbro](https://github.com/miroslavpejic85/mirotalkbro) - 📡 MiroTalk WebRTC Live Broadcast allows to broadcast live video, audio and screen stream to all connected users (viewers). (5 months ago)
+- [miroslavpejic85/mirotalkbro](https://github.com/miroslavpejic85/mirotalkbro) - 📡 MiroTalk WebRTC Live Broadcast allows to broadcast live video, audio and screen stream to all connected users (viewers). (6 months ago)
 
 
 #### 👯 Check out some of my recent followers
