@@ -63,9 +63,9 @@
 
 - [loadSchemaDialects function](https://github.com/hyperjump-io/json-schema/pull/53) on [hyperjump-io/json-schema](https://github.com/hyperjump-io/json-schema) (1 month ago)
 
-- [testing new get and count methods](https://github.com/HodaSalim/AirBnB_clone_v3_/pull/1) on [HodaSalim/AirBnB_clone_v3_](https://github.com/HodaSalim/AirBnB_clone_v3_) (2 months ago)
+- [testing new get and count methods](https://github.com/HodaSalim/AirBnB_clone_v3_/pull/1) on [HodaSalim/AirBnB_clone_v3_](https://github.com/HodaSalim/AirBnB_clone_v3_) (3 months ago)
 
-- [Tasks from 1 to 7](https://github.com/HodaSalim/AirBnB_clone_archive/pull/3) on [HodaSalim/AirBnB_clone_archive](https://github.com/HodaSalim/AirBnB_clone_archive) (7 months ago)
+- [Tasks from 1 to 7](https://github.com/HodaSalim/AirBnB_clone_archive/pull/3) on [HodaSalim/AirBnB_clone_archive](https://github.com/HodaSalim/AirBnB_clone_archive) (8 months ago)
 
 - [Complete](https://github.com/HodaSalim/Trello_GMC/pull/1) on [HodaSalim/Trello_GMC](https://github.com/HodaSalim/Trello_GMC) (9 months ago)
 
