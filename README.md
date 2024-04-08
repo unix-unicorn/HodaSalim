@@ -69,7 +69,7 @@
 
 - [Complete](https://github.com/HodaSalim/Trello_GMC/pull/1) on [HodaSalim/Trello_GMC](https://github.com/HodaSalim/Trello_GMC) (9 months ago)
 
-- [simple project no styling](https://github.com/HodaSalim/Redux-todo/pull/1) on [HodaSalim/Redux-todo](https://github.com/HodaSalim/Redux-todo) (9 months ago)
+- [simple project no styling](https://github.com/HodaSalim/Redux-todo/pull/1) on [HodaSalim/Redux-todo](https://github.com/HodaSalim/Redux-todo) (10 months ago)
 
 - [Filteration](https://github.com/ahmedbaligh/countries/pull/8) on [ahmedbaligh/countries](https://github.com/ahmedbaligh/countries) (10 months ago)
 
@@ -88,7 +88,7 @@
 
 - [hyperjump-io/json-schema-language-tools](https://github.com/hyperjump-io/json-schema-language-tools) - JSON Schema Langauge Server (1 week ago)
 
-- [academind/django-practical-guide-course-code](https://github.com/academind/django-practical-guide-course-code) - This repository holds the source code snapshots for our &#34;Django - The Practical Guide&#34; course (https://acad.link/django) (1 week ago)
+- [academind/django-practical-guide-course-code](https://github.com/academind/django-practical-guide-course-code) - This repository holds the source code snapshots for our &#34;Django - The Practical Guide&#34; course (https://acad.link/django) (2 weeks ago)
 
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions &amp; Answers....Coding exercise questions are coming soon!! (1 month ago)
 
