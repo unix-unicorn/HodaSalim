@@ -14,7 +14,7 @@
 
 - [HodaSalim/AirBnB_clone_v2](https://github.com/HodaSalim/AirBnB_clone_v2) -  (2 months ago)
 
-- [HodaSalim/AirBnB_clone_v4](https://github.com/HodaSalim/AirBnB_clone_v4) -  (2 months ago)
+- [HodaSalim/AirBnB_clone_v4](https://github.com/HodaSalim/AirBnB_clone_v4) -  (3 months ago)
 
 - [HodaSalim/alx-higher_level_programming](https://github.com/HodaSalim/alx-higher_level_programming) -  (3 months ago)
 
@@ -100,7 +100,7 @@
 
 - [lucavallin/verto](https://github.com/lucavallin/verto) - Your Gateway to Open-Source Collaboration. (5 months ago)
 
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (5 months ago)
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (6 months ago)
 
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers. (6 months ago)
 
