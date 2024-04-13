@@ -12,7 +12,7 @@
 
 - [HodaSalim/alx-system_engineering-devops](https://github.com/HodaSalim/alx-system_engineering-devops) -  (2 months ago)
 
-- [HodaSalim/AirBnB_clone_v2](https://github.com/HodaSalim/AirBnB_clone_v2) -  (2 months ago)
+- [HodaSalim/AirBnB_clone_v2](https://github.com/HodaSalim/AirBnB_clone_v2) -  (3 months ago)
 
 - [HodaSalim/AirBnB_clone_v4](https://github.com/HodaSalim/AirBnB_clone_v4) -  (3 months ago)
 
@@ -57,9 +57,9 @@
 
 
 
-- [settings: Fix dropdown menu for pronouns.](https://github.com/zulip/zulip/pull/29320) on [zulip/zulip](https://github.com/zulip/zulip) (3 weeks ago)
+- [settings: Fix dropdown menu for pronouns.](https://github.com/zulip/zulip/pull/29320) on [zulip/zulip](https://github.com/zulip/zulip) (4 weeks ago)
 
-- [Server - Code completion for $schema ](https://github.com/hyperjump-io/json-schema-language-tools/pull/27) on [hyperjump-io/json-schema-language-tools](https://github.com/hyperjump-io/json-schema-language-tools) (4 weeks ago)
+- [Server - Code completion for $schema ](https://github.com/hyperjump-io/json-schema-language-tools/pull/27) on [hyperjump-io/json-schema-language-tools](https://github.com/hyperjump-io/json-schema-language-tools) (1 month ago)
 
 - [loadSchemaDialects function](https://github.com/hyperjump-io/json-schema/pull/53) on [hyperjump-io/json-schema](https://github.com/hyperjump-io/json-schema) (1 month ago)
 
