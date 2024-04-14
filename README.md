@@ -4,6 +4,8 @@
 
 
 
+- [HodaSalim/Kanban-Board](https://github.com/HodaSalim/Kanban-Board) -  (today)
+
 - [HodaSalim/portfolio](https://github.com/HodaSalim/portfolio) -  (2 months ago)
 
 - [HodaSalim/StreamTV](https://github.com/HodaSalim/StreamTV) - a multistreaming platform using WebRTC (2 months ago)
@@ -22,11 +24,11 @@
 
 - [HodaSalim/binary_trees_archive](https://github.com/HodaSalim/binary_trees_archive) -  (7 months ago)
 
-- [HodaSalim/Fix_My_Code_Challenge_archive](https://github.com/HodaSalim/Fix_My_Code_Challenge_archive) -  (7 months ago)
-
 #### 🌱 My latest projects
 
 
+
+- [HodaSalim/Kanban-Board](https://github.com/HodaSalim/Kanban-Board) - 
 
 - [HodaSalim/nvim](https://github.com/HodaSalim/nvim) - My Neovim Configurations 
 
@@ -45,8 +47,6 @@
 - [HodaSalim/alx-system_engineering-devops](https://github.com/HodaSalim/alx-system_engineering-devops) - 
 
 - [HodaSalim/alx-higher_level_programming](https://github.com/HodaSalim/alx-higher_level_programming) - 
-
-- [HodaSalim/dotfiles](https://github.com/HodaSalim/dotfiles) - 
 
 
 #### 🔭 Latest releases I've contributed to
