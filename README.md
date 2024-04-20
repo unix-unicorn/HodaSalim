@@ -4,7 +4,7 @@
 
 
 
-- [HodaSalim/Kanban-Board](https://github.com/HodaSalim/Kanban-Board) -  (5 days ago)
+- [HodaSalim/Kanban-Board](https://github.com/HodaSalim/Kanban-Board) -  (6 days ago)
 
 - [HodaSalim/portfolio](https://github.com/HodaSalim/portfolio) -  (2 months ago)
 
@@ -98,7 +98,7 @@
 
 - [FrontendMasters/ai-nodejs](https://github.com/FrontendMasters/ai-nodejs) -  (5 months ago)
 
-- [lucavallin/verto](https://github.com/lucavallin/verto) - Your Gateway to Open-Source Collaboration. (5 months ago)
+- [lucavallin/verto](https://github.com/lucavallin/verto) - Your Gateway to Open-Source Collaboration. (6 months ago)
 
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (6 months ago)
 
