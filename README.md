@@ -10,7 +10,7 @@
 
 - [HodaSalim/StreamTV](https://github.com/HodaSalim/StreamTV) - a multistreaming platform using WebRTC (2 months ago)
 
-- [HodaSalim/BookVerse](https://github.com/HodaSalim/BookVerse) -  (2 months ago)
+- [HodaSalim/BookVerse](https://github.com/HodaSalim/BookVerse) -  (3 months ago)
 
 - [HodaSalim/alx-system_engineering-devops](https://github.com/HodaSalim/alx-system_engineering-devops) -  (3 months ago)
 
@@ -86,7 +86,7 @@
 
 
 
-- [hyperjump-io/json-schema-language-tools](https://github.com/hyperjump-io/json-schema-language-tools) - JSON Schema Langauge Server (3 weeks ago)
+- [hyperjump-io/json-schema-language-tools](https://github.com/hyperjump-io/json-schema-language-tools) - JSON Schema Langauge Server (4 weeks ago)
 
 - [academind/django-practical-guide-course-code](https://github.com/academind/django-practical-guide-course-code) - This repository holds the source code snapshots for our &#34;Django - The Practical Guide&#34; course (https://acad.link/django) (1 month ago)
 
