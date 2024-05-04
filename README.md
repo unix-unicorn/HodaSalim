@@ -86,6 +86,8 @@
 
 
 
+- [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs) - Generate subtitles using OpenAI Whisper in Davinci Resolve editing software. (today)
+
 - [hyperjump-io/json-schema-language-tools](https://github.com/hyperjump-io/json-schema-language-tools) - JSON Schema Langauge Server (1 month ago)
 
 - [academind/django-practical-guide-course-code](https://github.com/academind/django-practical-guide-course-code) - This repository holds the source code snapshots for our &#34;Django - The Practical Guide&#34; course (https://acad.link/django) (1 month ago)
@@ -103,8 +105,6 @@
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (6 months ago)
 
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers. (7 months ago)
-
-- [miroslavpejic85/mirotalkbro](https://github.com/miroslavpejic85/mirotalkbro) - 📡 MiroTalk WebRTC Live Broadcast allows to broadcast live video, audio and screen stream to all connected users (viewers). (7 months ago)
 
 
 #### 👯 Check out some of my recent followers
