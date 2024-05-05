@@ -4,9 +4,9 @@
 
 
 
-- [HodaSalim/Kanban-Board](https://github.com/HodaSalim/Kanban-Board) -  (2 weeks ago)
+- [HodaSalim/Kanban-Board](https://github.com/HodaSalim/Kanban-Board) -  (3 weeks ago)
 
-- [HodaSalim/portfolio](https://github.com/HodaSalim/portfolio) -  (2 months ago)
+- [HodaSalim/portfolio](https://github.com/HodaSalim/portfolio) -  (3 months ago)
 
 - [HodaSalim/StreamTV](https://github.com/HodaSalim/StreamTV) - a multistreaming platform using WebRTC (3 months ago)
 
@@ -86,7 +86,7 @@
 
 
 
-- [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs) - Generate subtitles using OpenAI Whisper in Davinci Resolve editing software. (today)
+- [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs) - Generate subtitles using OpenAI Whisper in Davinci Resolve editing software. (1 day ago)
 
 - [hyperjump-io/json-schema-language-tools](https://github.com/hyperjump-io/json-schema-language-tools) - JSON Schema Langauge Server (1 month ago)
 
