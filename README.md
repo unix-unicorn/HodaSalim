@@ -63,9 +63,9 @@
 
 - [loadSchemaDialects function](https://github.com/hyperjump-io/json-schema/pull/53) on [hyperjump-io/json-schema](https://github.com/hyperjump-io/json-schema) (2 months ago)
 
-- [testing new get and count methods](https://github.com/HodaSalim/AirBnB_clone_v3_/pull/1) on [HodaSalim/AirBnB_clone_v3_](https://github.com/HodaSalim/AirBnB_clone_v3_) (3 months ago)
+- [testing new get and count methods](https://github.com/HodaSalim/AirBnB_clone_v3_/pull/1) on [HodaSalim/AirBnB_clone_v3_](https://github.com/HodaSalim/AirBnB_clone_v3_) (4 months ago)
 
-- [Tasks from 1 to 7](https://github.com/HodaSalim/AirBnB_clone_archive/pull/3) on [HodaSalim/AirBnB_clone_archive](https://github.com/HodaSalim/AirBnB_clone_archive) (8 months ago)
+- [Tasks from 1 to 7](https://github.com/HodaSalim/AirBnB_clone_archive/pull/3) on [HodaSalim/AirBnB_clone_archive](https://github.com/HodaSalim/AirBnB_clone_archive) (9 months ago)
 
 - [Complete](https://github.com/HodaSalim/Trello_GMC/pull/1) on [HodaSalim/Trello_GMC](https://github.com/HodaSalim/Trello_GMC) (10 months ago)
 
@@ -86,7 +86,7 @@
 
 
 
-- [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs) - Generate subtitles using OpenAI Whisper in Davinci Resolve editing software. (2 days ago)
+- [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs) - Generate subtitles using OpenAI Whisper in Davinci Resolve editing software. (3 days ago)
 
 - [hyperjump-io/json-schema-language-tools](https://github.com/hyperjump-io/json-schema-language-tools) - JSON Schema Langauge Server (1 month ago)
 
