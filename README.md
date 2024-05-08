@@ -69,7 +69,7 @@
 
 - [Complete](https://github.com/HodaSalim/Trello_GMC/pull/1) on [HodaSalim/Trello_GMC](https://github.com/HodaSalim/Trello_GMC) (10 months ago)
 
-- [simple project no styling](https://github.com/HodaSalim/Redux-todo/pull/1) on [HodaSalim/Redux-todo](https://github.com/HodaSalim/Redux-todo) (10 months ago)
+- [simple project no styling](https://github.com/HodaSalim/Redux-todo/pull/1) on [HodaSalim/Redux-todo](https://github.com/HodaSalim/Redux-todo) (11 months ago)
 
 - [Filteration](https://github.com/ahmedbaligh/countries/pull/8) on [ahmedbaligh/countries](https://github.com/ahmedbaligh/countries) (11 months ago)
 
@@ -86,7 +86,7 @@
 
 
 
-- [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs) - Generate subtitles using OpenAI Whisper in Davinci Resolve editing software. (3 days ago)
+- [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs) - Generate subtitles using OpenAI Whisper in Davinci Resolve editing software. (4 days ago)
 
 - [hyperjump-io/json-schema-language-tools](https://github.com/hyperjump-io/json-schema-language-tools) - JSON Schema Langauge Server (1 month ago)
 
