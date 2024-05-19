@@ -67,7 +67,7 @@
 
 - [Tasks from 1 to 7](https://github.com/HodaSalim/AirBnB_clone_archive/pull/3) on [HodaSalim/AirBnB_clone_archive](https://github.com/HodaSalim/AirBnB_clone_archive) (9 months ago)
 
-- [Complete](https://github.com/HodaSalim/Trello_GMC/pull/1) on [HodaSalim/Trello_GMC](https://github.com/HodaSalim/Trello_GMC) (10 months ago)
+- [Complete](https://github.com/HodaSalim/Trello_GMC/pull/1) on [HodaSalim/Trello_GMC](https://github.com/HodaSalim/Trello_GMC) (11 months ago)
 
 - [simple project no styling](https://github.com/HodaSalim/Redux-todo/pull/1) on [HodaSalim/Redux-todo](https://github.com/HodaSalim/Redux-todo) (11 months ago)
 
