@@ -86,7 +86,7 @@
 
 
 
-- [TalalAlrawajfeh/mathematics-roadmap](https://github.com/TalalAlrawajfeh/mathematics-roadmap) - A Comprehensive Roadmap to Mathematics (1 day ago)
+- [TalalAlrawajfeh/mathematics-roadmap](https://github.com/TalalAlrawajfeh/mathematics-roadmap) - A Comprehensive Roadmap to Mathematics (2 days ago)
 
 - [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs) - Generate subtitles using OpenAI Whisper in Davinci Resolve editing software. (2 weeks ago)
 
@@ -100,7 +100,7 @@
 
 - [Sheta239/PAT.Web](https://github.com/Sheta239/PAT.Web) -  (2 months ago)
 
-- [FrontendMasters/ai-nodejs](https://github.com/FrontendMasters/ai-nodejs) -  (6 months ago)
+- [FrontendMasters/ai-nodejs](https://github.com/FrontendMasters/ai-nodejs) -  (7 months ago)
 
 - [lucavallin/verto](https://github.com/lucavallin/verto) - Your Gateway to Open-Source Collaboration. (7 months ago)
 
