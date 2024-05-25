@@ -10,7 +10,7 @@
 
 - [HodaSalim/StreamTV](https://github.com/HodaSalim/StreamTV) - a multistreaming platform using WebRTC (3 months ago)
 
-- [HodaSalim/BookVerse](https://github.com/HodaSalim/BookVerse) -  (3 months ago)
+- [HodaSalim/BookVerse](https://github.com/HodaSalim/BookVerse) -  (4 months ago)
 
 - [HodaSalim/alx-system_engineering-devops](https://github.com/HodaSalim/alx-system_engineering-devops) -  (4 months ago)
 
@@ -86,9 +86,9 @@
 
 
 
-- [TalalAlrawajfeh/mathematics-roadmap](https://github.com/TalalAlrawajfeh/mathematics-roadmap) - A Comprehensive Roadmap to Mathematics (4 days ago)
+- [TalalAlrawajfeh/mathematics-roadmap](https://github.com/TalalAlrawajfeh/mathematics-roadmap) - A Comprehensive Roadmap to Mathematics (5 days ago)
 
-- [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs) - Generate subtitles using OpenAI Whisper in Davinci Resolve editing software. (2 weeks ago)
+- [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs) - Generate subtitles using OpenAI Whisper in Davinci Resolve editing software. (3 weeks ago)
 
 - [hyperjump-io/json-schema-language-tools](https://github.com/hyperjump-io/json-schema-language-tools) - JSON Schema Langauge Server (1 month ago)
 
