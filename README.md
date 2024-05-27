@@ -86,6 +86,8 @@
 
 
 
+- [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning (today)
+
 - [TalalAlrawajfeh/mathematics-roadmap](https://github.com/TalalAlrawajfeh/mathematics-roadmap) - A Comprehensive Roadmap to Mathematics (1 week ago)
 
 - [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs) - Generate subtitles using OpenAI Whisper in Davinci Resolve editing software. (3 weeks ago)
@@ -103,8 +105,6 @@
 - [FrontendMasters/ai-nodejs](https://github.com/FrontendMasters/ai-nodejs) -  (7 months ago)
 
 - [lucavallin/verto](https://github.com/lucavallin/verto) - Your Gateway to Open-Source Collaboration. (7 months ago)
-
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (7 months ago)
 
 
 #### 👯 Check out some of my recent followers
