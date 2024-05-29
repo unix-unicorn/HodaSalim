@@ -22,7 +22,7 @@
 
 - [HodaSalim/dotfiles](https://github.com/HodaSalim/dotfiles) -  (5 months ago)
 
-- [HodaSalim/binary_trees_archive](https://github.com/HodaSalim/binary_trees_archive) -  (8 months ago)
+- [HodaSalim/binary_trees_archive](https://github.com/HodaSalim/binary_trees_archive) -  (9 months ago)
 
 #### 🌱 My latest projects
 
@@ -86,7 +86,7 @@
 
 
 
-- [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning (1 day ago)
+- [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning (2 days ago)
 
 - [TalalAlrawajfeh/mathematics-roadmap](https://github.com/TalalAlrawajfeh/mathematics-roadmap) - A Comprehensive Roadmap to Mathematics (1 week ago)
 
