@@ -71,7 +71,7 @@
 
 - [simple project no styling](https://github.com/HodaSalim/Redux-todo/pull/1) on [HodaSalim/Redux-todo](https://github.com/HodaSalim/Redux-todo) (11 months ago)
 
-- [Filteration](https://github.com/ahmedbaligh/countries/pull/8) on [ahmedbaligh/countries](https://github.com/ahmedbaligh/countries) (11 months ago)
+- [Filteration](https://github.com/ahmedbaligh/countries/pull/8) on [ahmedbaligh/countries](https://github.com/ahmedbaligh/countries) (1 year ago)
 
 - [Fetched API data from Countries API](https://github.com/ahmedbaligh/countries/pull/6) on [ahmedbaligh/countries](https://github.com/ahmedbaligh/countries) (1 year ago)
 
@@ -86,11 +86,11 @@
 
 
 
-- [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning (6 days ago)
+- [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning (1 week ago)
 
-- [TalalAlrawajfeh/mathematics-roadmap](https://github.com/TalalAlrawajfeh/mathematics-roadmap) - A Comprehensive Roadmap to Mathematics (1 week ago)
+- [TalalAlrawajfeh/mathematics-roadmap](https://github.com/TalalAlrawajfeh/mathematics-roadmap) - A Comprehensive Roadmap to Mathematics (2 weeks ago)
 
-- [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs) - Generate subtitles using OpenAI Whisper in Davinci Resolve editing software. (4 weeks ago)
+- [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs) - Generate subtitles using OpenAI Whisper in Davinci Resolve editing software. (1 month ago)
 
 - [hyperjump-io/json-schema-language-tools](https://github.com/hyperjump-io/json-schema-language-tools) - JSON Schema Langauge Server (2 months ago)
 
