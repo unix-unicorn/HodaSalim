@@ -69,7 +69,7 @@
 
 - [Complete](https://github.com/HodaSalim/Trello_GMC/pull/1) on [HodaSalim/Trello_GMC](https://github.com/HodaSalim/Trello_GMC) (11 months ago)
 
-- [simple project no styling](https://github.com/HodaSalim/Redux-todo/pull/1) on [HodaSalim/Redux-todo](https://github.com/HodaSalim/Redux-todo) (11 months ago)
+- [simple project no styling](https://github.com/HodaSalim/Redux-todo/pull/1) on [HodaSalim/Redux-todo](https://github.com/HodaSalim/Redux-todo) (1 year ago)
 
 - [Filteration](https://github.com/ahmedbaligh/countries/pull/8) on [ahmedbaligh/countries](https://github.com/ahmedbaligh/countries) (1 year ago)
 
