@@ -86,9 +86,9 @@
 
 
 
-- [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning (1 week ago)
+- [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning (2 weeks ago)
 
-- [TalalAlrawajfeh/mathematics-roadmap](https://github.com/TalalAlrawajfeh/mathematics-roadmap) - A Comprehensive Roadmap to Mathematics (2 weeks ago)
+- [TalalAlrawajfeh/mathematics-roadmap](https://github.com/TalalAlrawajfeh/mathematics-roadmap) - A Comprehensive Roadmap to Mathematics (3 weeks ago)
 
 - [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs) - Generate subtitles using OpenAI Whisper in Davinci Resolve editing software. (1 month ago)
 
