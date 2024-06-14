@@ -57,7 +57,7 @@
 
 
 
-- [settings: Fix dropdown menu for pronouns.](https://github.com/zulip/zulip/pull/29320) on [zulip/zulip](https://github.com/zulip/zulip) (2 months ago)
+- [settings: Fix dropdown menu for pronouns.](https://github.com/zulip/zulip/pull/29320) on [zulip/zulip](https://github.com/zulip/zulip) (3 months ago)
 
 - [Server - Code completion for $schema ](https://github.com/hyperjump-io/json-schema-language-tools/pull/27) on [hyperjump-io/json-schema-language-tools](https://github.com/hyperjump-io/json-schema-language-tools) (3 months ago)
 
