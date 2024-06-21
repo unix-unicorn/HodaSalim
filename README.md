@@ -102,7 +102,7 @@
 
 - [Sheta239/PAT.Web](https://github.com/Sheta239/PAT.Web) -  (3 months ago)
 
-- [FrontendMasters/ai-nodejs](https://github.com/FrontendMasters/ai-nodejs) -  (7 months ago)
+- [FrontendMasters/ai-nodejs](https://github.com/FrontendMasters/ai-nodejs) -  (8 months ago)
 
 - [lucavallin/verto](https://github.com/lucavallin/verto) - Your Gateway to Open-Source Collaboration. (8 months ago)
 
