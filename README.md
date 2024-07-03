@@ -90,7 +90,7 @@
 
 - [TalalAlrawajfeh/mathematics-roadmap](https://github.com/TalalAlrawajfeh/mathematics-roadmap) - A Comprehensive Roadmap to Mathematics (1 month ago)
 
-- [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs) - Generate subtitles using OpenAI Whisper in Davinci Resolve editing software. (1 month ago)
+- [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs) - Generate subtitles using OpenAI Whisper in Davinci Resolve editing software. (2 months ago)
 
 - [hyperjump-io/json-schema-language-tools](https://github.com/hyperjump-io/json-schema-language-tools) - JSON Schema Langauge Server (3 months ago)
 
