@@ -18,7 +18,7 @@
 
 - [unix-unicorn/AirBnB_clone_v2](https://github.com/unix-unicorn/AirBnB_clone_v2) -  (6 months ago)
 
-- [unix-unicorn/AirBnB_clone_v4](https://github.com/unix-unicorn/AirBnB_clone_v4) -  (6 months ago)
+- [unix-unicorn/AirBnB_clone_v4](https://github.com/unix-unicorn/AirBnB_clone_v4) -  (7 months ago)
 
 - [unix-unicorn/alx-higher_level_programming](https://github.com/unix-unicorn/alx-higher_level_programming) -  (7 months ago)
 
@@ -104,7 +104,7 @@
 
 - [lucavallin/verto](https://github.com/lucavallin/verto) - Your Gateway to Open-Source Collaboration. (9 months ago)
 
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (9 months ago)
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (10 months ago)
 
 
 #### 👯 Check out some of my recent followers
