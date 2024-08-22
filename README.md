@@ -14,7 +14,7 @@
 
 - [unix-unicorn/BookVerse](https://github.com/unix-unicorn/BookVerse) -  (6 months ago)
 
-- [unix-unicorn/alx-system_engineering-devops](https://github.com/unix-unicorn/alx-system_engineering-devops) -  (6 months ago)
+- [unix-unicorn/alx-system_engineering-devops](https://github.com/unix-unicorn/alx-system_engineering-devops) -  (7 months ago)
 
 - [unix-unicorn/AirBnB_clone_v2](https://github.com/unix-unicorn/AirBnB_clone_v2) -  (7 months ago)
 
@@ -94,7 +94,7 @@
 
 - [hyperjump-io/json-schema-language-tools](https://github.com/hyperjump-io/json-schema-language-tools) - JSON Schema Langauge Server (4 months ago)
 
-- [academind/django-practical-guide-course-code](https://github.com/academind/django-practical-guide-course-code) - This repository holds the source code snapshots for our &#34;Django - The Practical Guide&#34; course (https://acad.link/django) (4 months ago)
+- [academind/django-practical-guide-course-code](https://github.com/academind/django-practical-guide-course-code) - This repository holds the source code snapshots for our &#34;Django - The Practical Guide&#34; course (https://acad.link/django) (5 months ago)
 
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions &amp; Answers....Coding exercise questions are coming soon!! (5 months ago)
 
