@@ -12,7 +12,7 @@
 
 - [unix-unicorn/StreamTV](https://github.com/unix-unicorn/StreamTV) - a multistreaming platform using WebRTC (6 months ago)
 
-- [unix-unicorn/BookVerse](https://github.com/unix-unicorn/BookVerse) -  (6 months ago)
+- [unix-unicorn/BookVerse](https://github.com/unix-unicorn/BookVerse) -  (7 months ago)
 
 - [unix-unicorn/alx-system_engineering-devops](https://github.com/unix-unicorn/alx-system_engineering-devops) -  (7 months ago)
 
