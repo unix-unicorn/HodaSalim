@@ -16,7 +16,7 @@
 
 - [unix-unicorn/alx-system_engineering-devops](https://github.com/unix-unicorn/alx-system_engineering-devops) -  (7 months ago)
 
-- [unix-unicorn/AirBnB_clone_v2](https://github.com/unix-unicorn/AirBnB_clone_v2) -  (7 months ago)
+- [unix-unicorn/AirBnB_clone_v2](https://github.com/unix-unicorn/AirBnB_clone_v2) -  (8 months ago)
 
 - [unix-unicorn/AirBnB_clone_v4](https://github.com/unix-unicorn/AirBnB_clone_v4) -  (8 months ago)
 
@@ -59,7 +59,7 @@
 
 - [settings: Fix dropdown menu for pronouns.](https://github.com/zulip/zulip/pull/29320) on [zulip/zulip](https://github.com/zulip/zulip) (5 months ago)
 
-- [Server - Code completion for $schema ](https://github.com/hyperjump-io/json-schema-language-tools/pull/27) on [hyperjump-io/json-schema-language-tools](https://github.com/hyperjump-io/json-schema-language-tools) (5 months ago)
+- [Server - Code completion for $schema ](https://github.com/hyperjump-io/json-schema-language-tools/pull/27) on [hyperjump-io/json-schema-language-tools](https://github.com/hyperjump-io/json-schema-language-tools) (6 months ago)
 
 - [loadSchemaDialects function](https://github.com/hyperjump-io/json-schema/pull/53) on [hyperjump-io/json-schema](https://github.com/hyperjump-io/json-schema) (6 months ago)
 
