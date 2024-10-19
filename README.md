@@ -100,7 +100,7 @@
 
 - [Eqraatech/Software-Engineering-In-Arabic](https://github.com/Eqraatech/Software-Engineering-In-Arabic) - محتوى تقني متميز في مختلف مجالات هندسة البرمجيات عن طريق تبسيط المفاهيم البرمجية المعقدة بشكل سلس وباستخدام صور توضيحية مذهلة (7 months ago)
 
-- [FrontendMasters/ai-nodejs](https://github.com/FrontendMasters/ai-nodejs) -  (11 months ago)
+- [FrontendMasters/ai-nodejs](https://github.com/FrontendMasters/ai-nodejs) -  (1 year ago)
 
 - [lucavallin/verto](https://github.com/lucavallin/verto) - Your Gateway to Open-Source Collaboration. (1 year ago)
 
