@@ -61,7 +61,7 @@
 
 - [Server - Code completion for $schema ](https://github.com/hyperjump-io/json-schema-language-tools/pull/27) on [hyperjump-io/json-schema-language-tools](https://github.com/hyperjump-io/json-schema-language-tools) (7 months ago)
 
-- [loadSchemaDialects function](https://github.com/hyperjump-io/json-schema/pull/53) on [hyperjump-io/json-schema](https://github.com/hyperjump-io/json-schema) (7 months ago)
+- [loadSchemaDialects function](https://github.com/hyperjump-io/json-schema/pull/53) on [hyperjump-io/json-schema](https://github.com/hyperjump-io/json-schema) (8 months ago)
 
 - [testing new get and count methods](https://github.com/unix-unicorn/AirBnB_clone_v3_/pull/1) on [unix-unicorn/AirBnB_clone_v3_](https://github.com/unix-unicorn/AirBnB_clone_v3_) (9 months ago)
 
