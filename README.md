@@ -73,9 +73,9 @@
 
 - [Filteration](https://github.com/ahmedbaligh/countries/pull/8) on [ahmedbaligh/countries](https://github.com/ahmedbaligh/countries) (1 year ago)
 
-- [Fetched API data from Countries API](https://github.com/ahmedbaligh/countries/pull/6) on [ahmedbaligh/countries](https://github.com/ahmedbaligh/countries) (1 year ago)
+- [Fetched API data from Countries API](https://github.com/ahmedbaligh/countries/pull/6) on [ahmedbaligh/countries](https://github.com/ahmedbaligh/countries) (2 years ago)
 
-- [Added Header component](https://github.com/ahmedbaligh/countries/pull/5) on [ahmedbaligh/countries](https://github.com/ahmedbaligh/countries) (1 year ago)
+- [Added Header component](https://github.com/ahmedbaligh/countries/pull/5) on [ahmedbaligh/countries](https://github.com/ahmedbaligh/countries) (2 years ago)
 
 
 #### 📓 Gists I wrote
