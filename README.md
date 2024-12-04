@@ -69,7 +69,7 @@
 
 - [Complete](https://github.com/unix-unicorn/Trello_GMC/pull/1) on [unix-unicorn/Trello_GMC](https://github.com/unix-unicorn/Trello_GMC) (1 year ago)
 
-- [simple project no styling](https://github.com/unix-unicorn/Redux-todo/pull/1) on [unix-unicorn/Redux-todo](https://github.com/unix-unicorn/Redux-todo) (1 year ago)
+- [simple project no styling](https://github.com/unix-unicorn/Redux-todo/pull/1) on [unix-unicorn/Redux-todo](https://github.com/unix-unicorn/Redux-todo) (2 years ago)
 
 - [Filteration](https://github.com/ahmedbaligh/countries/pull/8) on [ahmedbaligh/countries](https://github.com/ahmedbaligh/countries) (2 years ago)
 
