@@ -20,9 +20,9 @@
 
 - [unix-unicorn/AirBnB_clone_v4](https://github.com/unix-unicorn/AirBnB_clone_v4) -  (10 months ago)
 
-- [unix-unicorn/alx-higher_level_programming](https://github.com/unix-unicorn/alx-higher_level_programming) -  (10 months ago)
+- [unix-unicorn/alx-higher_level_programming](https://github.com/unix-unicorn/alx-higher_level_programming) -  (11 months ago)
 
-- [unix-unicorn/dotfiles](https://github.com/unix-unicorn/dotfiles) -  (11 months ago)
+- [unix-unicorn/dotfiles](https://github.com/unix-unicorn/dotfiles) -  (1 year ago)
 
 #### 🌱 My latest projects
 
