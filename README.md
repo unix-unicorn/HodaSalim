@@ -67,7 +67,7 @@
 
 - [Tasks from 1 to 7](https://github.com/unix-unicorn/AirBnB_clone_archive/pull/3) on [unix-unicorn/AirBnB_clone_archive](https://github.com/unix-unicorn/AirBnB_clone_archive) (1 year ago)
 
-- [Complete](https://github.com/unix-unicorn/Trello_GMC/pull/1) on [unix-unicorn/Trello_GMC](https://github.com/unix-unicorn/Trello_GMC) (1 year ago)
+- [Complete](https://github.com/unix-unicorn/Trello_GMC/pull/1) on [unix-unicorn/Trello_GMC](https://github.com/unix-unicorn/Trello_GMC) (2 years ago)
 
 - [simple project no styling](https://github.com/unix-unicorn/Redux-todo/pull/1) on [unix-unicorn/Redux-todo](https://github.com/unix-unicorn/Redux-todo) (2 years ago)
 
