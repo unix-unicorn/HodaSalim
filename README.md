@@ -18,10 +18,6 @@
 
 - [unix-unicorn/AirBnB_clone_v2](https://github.com/unix-unicorn/AirBnB_clone_v2) -  (1 year ago)
 
-- [unix-unicorn/AirBnB_clone_v4](https://github.com/unix-unicorn/AirBnB_clone_v4) -  (1 year ago)
-
-- [unix-unicorn/alx-higher_level_programming](https://github.com/unix-unicorn/alx-higher_level_programming) -  (1 year ago)
-
 #### 🌱 My latest projects
 
 
