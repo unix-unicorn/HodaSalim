@@ -16,8 +16,6 @@
 
 - [unix-unicorn/alx-system_engineering-devops](https://github.com/unix-unicorn/alx-system_engineering-devops) -  (1 year ago)
 
-- [unix-unicorn/AirBnB_clone_v2](https://github.com/unix-unicorn/AirBnB_clone_v2) -  (1 year ago)
-
 #### 🌱 My latest projects
 
 
