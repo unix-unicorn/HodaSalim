@@ -12,10 +12,6 @@
 
 - [unix-unicorn/StreamTV](https://github.com/unix-unicorn/StreamTV) - a multistreaming platform using WebRTC (1 year ago)
 
-- [unix-unicorn/BookVerse](https://github.com/unix-unicorn/BookVerse) -  (1 year ago)
-
-- [unix-unicorn/alx-system_engineering-devops](https://github.com/unix-unicorn/alx-system_engineering-devops) -  (1 year ago)
-
 #### 🌱 My latest projects
 
 
