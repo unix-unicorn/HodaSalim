@@ -53,7 +53,7 @@
 
 - [testing new get and count methods](https://github.com/unix-unicorn/AirBnB_clone_v3_/pull/1) on [unix-unicorn/AirBnB_clone_v3_](https://github.com/unix-unicorn/AirBnB_clone_v3_) (1 year ago)
 
-- [Tasks from 1 to 7](https://github.com/unix-unicorn/AirBnB_clone_archive/pull/3) on [unix-unicorn/AirBnB_clone_archive](https://github.com/unix-unicorn/AirBnB_clone_archive) (1 year ago)
+- [Tasks from 1 to 7](https://github.com/unix-unicorn/AirBnB_clone_archive/pull/3) on [unix-unicorn/AirBnB_clone_archive](https://github.com/unix-unicorn/AirBnB_clone_archive) (2 years ago)
 
 - [Complete](https://github.com/unix-unicorn/Trello_GMC/pull/1) on [unix-unicorn/Trello_GMC](https://github.com/unix-unicorn/Trello_GMC) (2 years ago)
 
