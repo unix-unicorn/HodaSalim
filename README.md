@@ -8,10 +8,6 @@
 
 - [unix-unicorn/portfolio](https://github.com/unix-unicorn/portfolio) -  (1 year ago)
 
-- [unix-unicorn/HodaSalim](https://github.com/unix-unicorn/HodaSalim) -  (1 year ago)
-
-- [unix-unicorn/StreamTV](https://github.com/unix-unicorn/StreamTV) - a multistreaming platform using WebRTC (1 year ago)
-
 #### 🌱 My latest projects
 
 
