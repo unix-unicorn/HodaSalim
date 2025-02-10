@@ -6,8 +6,6 @@
 
 - [unix-unicorn/Kanban-Board](https://github.com/unix-unicorn/Kanban-Board) -  (10 months ago)
 
-- [unix-unicorn/portfolio](https://github.com/unix-unicorn/portfolio) -  (1 year ago)
-
 #### 🌱 My latest projects
 
 
