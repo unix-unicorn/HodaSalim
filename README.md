@@ -72,7 +72,7 @@
 
 - [TalalAlrawajfeh/mathematics-roadmap](https://github.com/TalalAlrawajfeh/mathematics-roadmap) - A Comprehensive Roadmap to Mathematics (10 months ago)
 
-- [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs) - Generate Subtitles &amp; Diarize Speakers in Davinci Resolve using AI. (10 months ago)
+- [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs) - Generate Subtitles &amp; Diarize Speakers in Davinci Resolve using AI. (11 months ago)
 
 - [hyperjump-io/json-schema-language-tools](https://github.com/hyperjump-io/json-schema-language-tools) - JSON Schema Langauge Server (1 year ago)
 
