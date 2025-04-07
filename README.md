@@ -86,7 +86,7 @@
 
 - [lucavallin/verto](https://github.com/lucavallin/verto) - Your Gateway to Open-Source Collaboration. (1 year ago)
 
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (1 year ago)
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (2 years ago)
 
 
 #### 👯 Check out some of my recent followers
