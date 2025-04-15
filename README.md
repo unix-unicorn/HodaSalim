@@ -70,7 +70,7 @@
 
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning (10 months ago)
 
-- [TalalAlrawajfeh/mathematics-roadmap](https://github.com/TalalAlrawajfeh/mathematics-roadmap) - A Comprehensive Roadmap to Mathematics (10 months ago)
+- [TalalAlrawajfeh/mathematics-roadmap](https://github.com/TalalAlrawajfeh/mathematics-roadmap) - A Comprehensive Roadmap to Mathematics (11 months ago)
 
 - [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs) - Generate Subtitles &amp; Diarize Speakers in Davinci Resolve using AI. (11 months ago)
 
@@ -84,7 +84,7 @@
 
 - [FrontendMasters/ai-nodejs](https://github.com/FrontendMasters/ai-nodejs) -  (1 year ago)
 
-- [lucavallin/verto](https://github.com/lucavallin/verto) - Your Gateway to Open-Source Collaboration. (1 year ago)
+- [lucavallin/verto](https://github.com/lucavallin/verto) - Your Gateway to Open-Source Collaboration. (2 years ago)
 
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (2 years ago)
 
